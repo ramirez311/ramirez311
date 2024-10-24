@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile-img {
+    width: 100px; /* Ajusta el tamaño según tus necesidades */
+    height: auto; /* Mantiene la proporción */
+    border-radius: 50%; /* Hace que la imagen sea redonda */
+}
+
+h1 {
+    margin: 10px 0 5px;
+}
+
+
+h2 {
+    color: #333;
+}
+
+.job, .education {
+    margin-bottom: 15px;
+}
+.perfil_profesional{
+    margin: 10px;
+    padding: 36px;
+} 
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #777;
+}
